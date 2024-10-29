@@ -3,9 +3,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to rajeshr82 accounts related prod APIs "
+  message: "Welcome to rajeshr82 accounts related production APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
+    name: "Reine rajarikam - Product Owner"
     email: "{cipher}c7ea77ad955ed7c8e0cce58c3d30db6deb93f6e3aee7023fc7dd5d74ad57b025bcaf867e0fcad625301a9a8dca4e5ecd"
   onCallSupport:
     - (453) 392-4829
